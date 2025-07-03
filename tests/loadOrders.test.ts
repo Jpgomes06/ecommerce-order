@@ -1,5 +1,5 @@
-import { LoadOrdersController } from '../presentation/controllers/load-orders-controller';
-import { LoadOrdersService } from '../domain/services/load-orders-service';
+import { LoadOrdersController } from '../src/presentation/controllers/load-orders-controller';
+import { LoadOrdersService } from '../src/domain/services/load-orders-service';
 
 describe('LoadOrdersController', () => {
     const makeServiceStub = (): LoadOrdersService => {

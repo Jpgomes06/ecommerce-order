@@ -1,6 +1,6 @@
-import { StoreOrderController } from '../presentation/controllers/store-order-controller'
-import { StoreOrderService } from '../domain/services/store-order-service';
-import { Order } from '../domain/entities/order';
+import { StoreOrderController } from '../src/presentation/controllers/store-order-controller'
+import { StoreOrderService } from '../src/domain/services/store-order-service';
+import { Order } from '../src/domain/entities/order';
 
 describe('StoreOrderController', () => {
     const mockOrder: Order = {

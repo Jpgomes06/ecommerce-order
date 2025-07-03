@@ -1,4 +1,4 @@
-import { PingController } from '../presentation/controllers/ping-controller';
+import { PingController } from '../src/presentation/controllers/ping-controller';
 
 describe('PingController', () => {
     it('should return 200 and "pong" message', async () => {
