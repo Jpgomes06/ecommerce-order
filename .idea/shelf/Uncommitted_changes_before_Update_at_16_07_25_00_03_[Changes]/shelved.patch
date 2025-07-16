@@ -1,0 +1,217 @@
+Index: .idea/vcs.xml
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+deleted file mode 100644
+--- a/.idea/vcs.xml	(revision d39d892493ce26a84d83586d52f2d4e06f511b68)
++++ /dev/null	(revision d39d892493ce26a84d83586d52f2d4e06f511b68)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+deleted file mode 100644
+--- a/.idea/workspace.xml	(revision d39d892493ce26a84d83586d52f2d4e06f511b68)
++++ /dev/null	(revision d39d892493ce26a84d83586d52f2d4e06f511b68)
+@@ -1,192 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="AutoImportSettings">
+-    <option name="autoReloadType" value="SELECTIVE" />
+-  </component>
+-  <component name="ChangeListManager">
+-    <list default="true" id="2605fe77-77cf-4765-b6a5-d58e080c5341" name="Changes" comment="add package-lock.json">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
+-    <option name="SHOW_DIALOG" value="false" />
+-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-    <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="Git.Settings">
+-    <option name="RECENT_BRANCH_BY_REPOSITORY">
+-      <map>
+-        <entry key="$PROJECT_DIR$" value="test" />
+-      </map>
+-    </option>
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-  </component>
+-  <component name="GitHubPullRequestSearchHistory">{
+-  &quot;lastFilter&quot;: {
+-    &quot;state&quot;: &quot;OPEN&quot;,
+-    &quot;assignee&quot;: &quot;Jpgomes06&quot;
+-  }
+-}</component>
+-  <component name="GithubPullRequestsUISettings">{
+-  &quot;selectedUrlAndAccountId&quot;: {
+-    &quot;url&quot;: &quot;https://github.com/Jpgomes06/ecommerce-order.git&quot;,
+-    &quot;accountId&quot;: &quot;f097978a-f7c4-407f-8339-3c6df58fd8c8&quot;
+-  }
+-}</component>
+-  <component name="ProjectColorInfo">{
+-  &quot;customColor&quot;: &quot;&quot;,
+-  &quot;associatedIndex&quot;: 0
+-}</component>
+-  <component name="ProjectId" id="2zNmUE4FkFofqGjQlH6Lv4hiHm3" />
+-  <component name="ProjectLevelVcsManager">
+-    <ConfirmationsSetting value="2" id="Add" />
+-  </component>
+-  <component name="ProjectViewState">
+-    <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showLibraryContents" value="true" />
+-  </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;Jest.LoadOrdersController.executor&quot;: &quot;Run&quot;,
+-    &quot;Jest.PingController.executor&quot;: &quot;Run&quot;,
+-    &quot;Jest.StoreOrderController.executor&quot;: &quot;Run&quot;,
+-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;nodejs.jest.jest_package&quot;: &quot;/Users/joaopedro/WebstormProjects/ecommerce-order/node_modules/jest&quot;,
+-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+-    &quot;ts.external.directory.path&quot;: &quot;/Users/joaopedro/WebstormProjects/ecommerce-order/node_modules/typescript/lib&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+-  }
+-}</component>
+-  <component name="RecentsManager">
+-    <key name="MoveFile.RECENT_KEYS">
+-      <recent name="$PROJECT_DIR$" />
+-    </key>
+-  </component>
+-  <component name="RunManager" selected="Jest.StoreOrderController">
+-    <configuration name="LoadOrdersController" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+-      <node-interpreter value="project" />
+-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+-      <working-dir value="$PROJECT_DIR$" />
+-      <envs />
+-      <scope-kind value="SUITE" />
+-      <test-file value="$PROJECT_DIR$/tests/loadOrders.test.ts" />
+-      <test-names>
+-        <test-name value="LoadOrdersController" />
+-      </test-names>
+-      <method v="2" />
+-    </configuration>
+-    <configuration name="PingController" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+-      <node-interpreter value="project" />
+-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+-      <working-dir value="$PROJECT_DIR$" />
+-      <envs />
+-      <scope-kind value="SUITE" />
+-      <test-file value="$PROJECT_DIR$/tests/ping.test.ts" />
+-      <test-names>
+-        <test-name value="PingController" />
+-      </test-names>
+-      <method v="2" />
+-    </configuration>
+-    <configuration name="StoreOrderController" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+-      <node-interpreter value="project" />
+-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+-      <working-dir value="$PROJECT_DIR$" />
+-      <envs />
+-      <scope-kind value="SUITE" />
+-      <test-file value="$PROJECT_DIR$/tests/storeOrder.test.ts" />
+-      <test-names>
+-        <test-name value="StoreOrderController" />
+-      </test-names>
+-      <method v="2" />
+-    </configuration>
+-    <recent_temporary>
+-      <list>
+-        <item itemvalue="Jest.StoreOrderController" />
+-        <item itemvalue="Jest.PingController" />
+-        <item itemvalue="Jest.LoadOrdersController" />
+-      </list>
+-    </recent_temporary>
+-  </component>
+-  <component name="SharedIndexes">
+-    <attachedChunks>
+-      <set>
+-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-WS-251.25410.117" />
+-      </set>
+-    </attachedChunks>
+-  </component>
+-  <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="2605fe77-77cf-4765-b6a5-d58e080c5341" name="Changes" comment="" />
+-      <created>1751579918464</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1751579918464</updated>
+-      <workItem from="1751579919565" duration="44000" />
+-      <workItem from="1751579998713" duration="4241000" />
+-      <workItem from="1752191609765" duration="613000" />
+-      <workItem from="1752192251359" duration="2616000" />
+-      <workItem from="1752630507069" duration="1282000" />
+-      <workItem from="1752632456853" duration="1384000" />
+-    </task>
+-    <task id="LOCAL-00001" summary="first commit">
+-      <option name="closed" value="true" />
+-      <created>1751580558707</created>
+-      <option name="number" value="00001" />
+-      <option name="presentableId" value="LOCAL-00001" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1751580558707</updated>
+-    </task>
+-    <task id="LOCAL-00002" summary="moving the tests folder out of src">
+-      <option name="closed" value="true" />
+-      <created>1751582488314</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1751582488314</updated>
+-    </task>
+-    <task id="LOCAL-00003" summary="adding heroku.yml">
+-      <option name="closed" value="true" />
+-      <created>1751586053791</created>
+-      <option name="number" value="00003" />
+-      <option name="presentableId" value="LOCAL-00003" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1751586053791</updated>
+-    </task>
+-    <task id="LOCAL-00004" summary="add postinstall script for Heroku">
+-      <option name="closed" value="true" />
+-      <created>1752192743923</created>
+-      <option name="number" value="00004" />
+-      <option name="presentableId" value="LOCAL-00004" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1752192743923</updated>
+-    </task>
+-    <task id="LOCAL-00005" summary="add package-lock.json">
+-      <option name="closed" value="true" />
+-      <created>1752192847644</created>
+-      <option name="number" value="00005" />
+-      <option name="presentableId" value="LOCAL-00005" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1752192847644</updated>
+-    </task>
+-    <option name="localTasksCounter" value="6" />
+-    <servers />
+-  </component>
+-  <component name="TypeScriptGeneratedFilesManager">
+-    <option name="version" value="3" />
+-  </component>
+-  <component name="VcsManagerConfiguration">
+-    <MESSAGE value="first commit" />
+-    <MESSAGE value="moving the tests folder out of src" />
+-    <MESSAGE value="adding heroku.yml" />
+-    <MESSAGE value="add postinstall script for Heroku" />
+-    <MESSAGE value="add package-lock.json" />
+-    <option name="LAST_COMMIT_MESSAGE" value="add package-lock.json" />
+-  </component>
+-</project>
+\ No newline at end of file
