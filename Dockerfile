@@ -5,7 +5,7 @@ WORKDIR /app
 COPY package*.json tsconfig.json ./
 RUN npm ci
 
-COPY . .
+COPY src ./src
 RUN npx tsc
 
 FROM node:20-alpine
