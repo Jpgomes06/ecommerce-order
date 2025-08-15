@@ -460,3 +460,4 @@ curl http://localhost:3000/api/v1/orders
 ---
 
 **Resumo João:** Este projeto mostra como separar responsabilidades, usar injeção de dependência e manter o código limpo e flexível. Cada camada tem sua função específica e elas conversam através de interfaces bem definidas. Isso torna o código mais fácil de testar, manter e evoluir! 🎉 
+
